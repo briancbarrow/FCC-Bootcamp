@@ -1,13 +1,10 @@
-<!-- <h1>Hello World</h1> -->
-<style>
-    h2 {
-        color: red;
-        }
 
-    h2 {
-        color: chartreuse !important;
-    }
+<style>
+  .blue-text {
+    color: blue;
+  }
 </style>
-<h2>CatPhotoApp</h2>
-<!-- <p>Hello Paragraph</p> -->
+
+<h2 class="blue-text">CatPhotoApp</h2>
+
 <p>Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.</p>
